@@ -1,0 +1,54 @@
+body{
+    margin:0;
+   
+}
+.a{
+    
+    height: 100px;
+    width:100%;
+    position: relative;
+    
+    
+    background-color: #D8D8D8;
+}
+.aa{
+    
+    height: 50px;
+    width: 50px;
+    position: absolute;
+    top: 20px;
+    left: 20px;
+        
+    
+    background-color: #4A90E2;
+}
+p{
+    padding:50px;
+}
+.b{
+    height: 100px;
+    width: 100%;
+    
+    background-color: #4A90E2;;
+
+
+}
+.c{
+    height: 100px;
+    width: 100%;
+    
+    background-color: #50E3C2;
+
+}
+.d{
+    height: 100px;
+    width: 100%;
+    
+    background-color: #B8E986;
+
+}
+.e{
+    height: 100px;
+    width: 100%;
+    background-color: #F8E71C
+}

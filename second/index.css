@@ -1,0 +1,45 @@
+body{
+    margin:0;
+    
+}
+.a{
+    height: 100vh;
+    width:33vw;
+    
+    float:left;
+    background-color:#4A90E2;
+
+
+}
+.b{
+    height: 100vh;
+    width: 33vw;
+    margin-left:4px;
+    margin-right:4px;
+    float: left;
+    background-color:#50E3C2;
+
+
+}
+.c{
+    height: 100vh;
+    width: 33vw;
+    float: left;
+    background-color:#B8E986;
+
+}
+.d{
+    height: 100px;
+    width: 33vw;
+    margin-top: 545px;
+    text-align:center;
+    padding-top:50px;
+    background-color:#FF0000;
+
+
+}
+p{
+    margin:0;
+    font-size: 25px;
+    color: white;
+}
